@@ -1,6 +1,8 @@
 # PythonMyArchive
 My implementations and notes on Python from basic operations to advanced topics including data structures and algorithms.
 
+<span style="color: green">
+
 Python Statements
 
 Built-in Functions
@@ -11,4 +13,5 @@ Python Decorators
 
 Python Generators
 
-Advanced Python Objects and Data Structures
+Advanced Python Objects and Data Structures 
+</span>
